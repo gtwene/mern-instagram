@@ -15,3 +15,12 @@ const auth = firebase.auth();
 const storage = firebase.storage();
 
 export { db, auth, storage };
+
+// const firebaseConfig = {
+//   apiKey: "AIzaSyDkQMkekgGdBfo9AJItfzmWHdMKBVtqtwI",
+//   authDomain: "insta-clone-720a7.firebaseapp.com",
+//   projectId: "insta-clone-720a7",
+//   storageBucket: "insta-clone-720a7.appspot.com",
+//   messagingSenderId: "579632755732",
+//   appId: "1:579632755732:web:6324480b6df9b48a452301"
+// };
